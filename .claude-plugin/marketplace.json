@@ -1,0 +1,13 @@
+{
+  "name": "zhivoy-tekst-marketplace",
+  "owner": {
+    "name": "Oleg"
+  },
+  "plugins": [
+    {
+      "name": "zhivoy-tekst",
+      "source": "./zhivoy-tekst",
+      "description": "Помогает писать тексты на русском живым человеческим языком: посты, рассылки, статьи и письма без AI-штампов и канцелярита."
+    }
+  ]
+}
